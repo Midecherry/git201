@@ -4,7 +4,7 @@ Parameters:
     Type: String
     Default: t3a.medium
     Description: Enter instance size. Default is t3a.medium.
-  WorkstationIp:
+  WorkstationIP:
     Type: String
     Description: The IP address of the workstation that can RDP into the instance.
   AMI:
